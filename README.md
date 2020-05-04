@@ -23,3 +23,7 @@ Generated SQL Query
 
 ![query](https://user-images.githubusercontent.com/47147484/80907133-c6ac4200-8d1c-11ea-9a4e-1da1edd8899f.png)
 
+***
+## Turkish Article
+https://medium.com/devopsturkiye/ef-core-5-preview-3-benchmark-and-performance-testing-ebe9186aad0a
+
